@@ -33,7 +33,15 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer Coding Animation" />
+<div align="center">
+  <a href="https://github.com/defbyharshit/StudentPerformancePredictor">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defbyharshit&repo=StudentPerformancePredictor&theme=tokyonight&border_color=00B4D8&title_color=00B4D8&icon_color=00B4D8&text_color=94A3B8" width="100%" alt="Flagship Project" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/CURRENT_MISSION-End--to--End_ML_Pipelines-00B4D8?style=flat-square&logo=target" alt="Mission" /><br/>
+  <img src="https://img.shields.io/badge/CORE_FOCUS-Data_Analytics_•_Python_•_Streamlit-1a1f2e?style=flat-square&logo=python&logoColor=00B4D8" alt="Core Focus" /><br/>
+  <img src="https://img.shields.io/badge/WORKBENCH-VS_Code_•_Git_•_Linux_CLI-00B4D8?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Workbench" />
+</div>
 
 </td>
 </tr>
