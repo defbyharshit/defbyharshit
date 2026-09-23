@@ -172,7 +172,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,html,css,js,git,github,vscode,linux,bash,mysql&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,visualstudio,vscode,ae,ps,pandas,numpy,sklearn,html,css,js,git,github,mysql&theme=dark" alt="Skill Icons" />
 </a>
 
 </div>
@@ -181,10 +181,10 @@
 
 | Category | What I Build With |
 | :--- | :--- |
-| 📊 **Data Science & ML** | Python, NumPy, Pandas, Scikit-Learn, Jupyter Notebooks, Plotly, Seaborn |
-| 🌐 **Web & Applications** | Streamlit, JavaScript, HTML5, CSS3, REST APIs |
-| 💾 **Data & Databases** | SQL, Relational Database Design, CSV / Data Pipelines |
-| 🛠️ **Dev Tools & OS** | Git, GitHub, VS Code, Linux CLI, Bash |
+| 🐍 **Programming & Development** | Python, Visual Studio, VS Code, Git, GitHub |
+| 🎨 **Creative Design & Media** | Adobe After Effects, Adobe Photoshop |
+| 📊 **Data Science & ML** | NumPy, Pandas, Scikit-Learn, Jupyter Notebooks, Plotly, Seaborn |
+| 🌐 **Web & Databases** | Streamlit, JavaScript, HTML5, CSS3, SQL / MySQL |
 
 ---
 
