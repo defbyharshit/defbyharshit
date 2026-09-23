@@ -172,7 +172,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,visualstudio,vscode,ae,ps,pandas,numpy,sklearn,html,css,js,git,github,mysql&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,visualstudio,vscode,ae,ps&theme=dark" alt="Skill Icons" />
 </a>
 
 </div>
