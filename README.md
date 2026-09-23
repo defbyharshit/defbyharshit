@@ -5,7 +5,7 @@ I'm a first-year **B.Tech Computer Science (Data Science)** student passionate a
 ---
 
 ### 💫 About Me
-- 🎓 Currently pursuing **B.Tech in CSE (Data Science)** (Class of 2028).
+- 🎓 Currently pursuing **B.Tech in CSE (Data Science)** (Class of 2026).
 - 🌱 Currently learning: **Python, Data Structures & Algorithms (DSA), and Data Analysis**.
 - 📊 Interested in: **Machine Learning, Deep Learning, and Big Data**.
 - 💡 Looking to collaborate on: **Beginner-friendly open source projects and Data Science experiments**.
