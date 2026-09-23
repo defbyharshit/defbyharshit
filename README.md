@@ -41,12 +41,13 @@ $ neofetch --user harshit
 
 ---
 
-### 🚀 Featured & Upcoming Projects
+### 🚀 Featured & Real-World Projects
 
-| Project | Tech Stack | Status | Description |
+| Project | Tech Stack | Stars / Status | Description |
 | :--- | :--- | :---: | :--- |
-| 🌟 [**defbyharshit**](https://github.com/defbyharshit/defbyharshit) | `Markdown` `SVG` `GitHub Actions` | ⭐ *2 Stars* | High-performance Cyberpunk developer portfolio & profile README |
-| 📊 **EDA Insights Hub** | `Python` `Pandas` `NumPy` `Jupyter` | 🚧 *In Progress* | End-to-end data analysis and visual storytelling on real-world datasets |
+| 🐍 [**Aether**](https://github.com/defbyharshit/Aether) | `Python` | [![Aether Stars](https://img.shields.io/github/stars/defbyharshit/Aether?style=flat-square&color=00ffcc&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/Aether) | First code repository — simple Python application |
+| 🌟 [**defbyharshit**](https://github.com/defbyharshit/defbyharshit) | `Markdown` `SVG` | [![Profile Stars](https://img.shields.io/github/stars/defbyharshit/defbyharshit?style=flat-square&color=00ffcc&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/defbyharshit) | High-performance Cyberpunk developer portfolio & profile README |
+| 📊 **EDA Insights Hub** | `Python` `Pandas` `NumPy` | 🚧 *In Progress* | End-to-end data analysis and visual storytelling on real-world datasets |
 | 🌐 **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | 📐 *Planning* | High-performance personal website showcasing projects and blogs |
 | 🤖 **Predictive ML Starter** | `Python` `Scikit-Learn` | 💡 *Upcoming* | Fundamental machine learning models for pattern recognition and classification |
 
