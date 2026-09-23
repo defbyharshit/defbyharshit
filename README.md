@@ -4,6 +4,9 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=defbyharshit&label=SYSTEM+VISITS&color=00ffcc&style=flat-square" alt="profile visits" />
+    <a href="https://github.com/defbyharshit/defbyharshit/stargazers">
+      <img src="https://img.shields.io/github/stars/defbyharshit/defbyharshit?style=flat-square&color=00ffcc&logo=github&label=REPO%20STARS" alt="stars" />
+    </a>
     <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00FF88?style=flat-square&logo=ghostery&logoColor=black" alt="Status" />
   </p>
 
@@ -30,6 +33,7 @@ $ neofetch --user harshit
 ### 🎯 Current Goals & Milestones
 
 - [x] Set up developer workspace, Git & SSH integration
+- [x] Earn first repository stars (⭐⭐ Milestone reached!)
 - [ ] Master Python Data Science stack (NumPy, Pandas, Matplotlib, Seaborn)
 - [ ] Solve 100+ Data Structures & Algorithms (DSA) problems in Python
 - [ ] Design and query relational databases with SQL
@@ -41,6 +45,7 @@ $ neofetch --user harshit
 
 | Project | Tech Stack | Status | Description |
 | :--- | :--- | :---: | :--- |
+| 🌟 [**defbyharshit**](https://github.com/defbyharshit/defbyharshit) | `Markdown` `SVG` `GitHub Actions` | ⭐ *2 Stars* | High-performance Cyberpunk developer portfolio & profile README |
 | 📊 **EDA Insights Hub** | `Python` `Pandas` `NumPy` `Jupyter` | 🚧 *In Progress* | End-to-end data analysis and visual storytelling on real-world datasets |
 | 🌐 **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | 📐 *Planning* | High-performance personal website showcasing projects and blogs |
 | 🤖 **Predictive ML Starter** | `Python` `Scikit-Learn` | 💡 *Upcoming* | Fundamental machine learning models for pattern recognition and classification |
