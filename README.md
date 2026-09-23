@@ -41,9 +41,9 @@ My primary technical interests lie at the intersection of **data analytics**, **
 
 | Project | Tech Stack | Stars | Description |
 | :--- | :--- | :---: | :--- |
+| 🎓 [**StudentPerformancePredictor**](https://github.com/defbyharshit/StudentPerformancePredictor) | `Python` `Streamlit` `Scikit-Learn` `Plotly` | [![SPP Stars](https://img.shields.io/github/stars/defbyharshit/StudentPerformancePredictor?style=flat-square&color=0284c7&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/StudentPerformancePredictor) | Interactive web app that analyzes student data & predicts exam scores using ML |
 | 🐍 [**Aether**](https://github.com/defbyharshit/Aether) | `Python` | [![Aether Stars](https://img.shields.io/github/stars/defbyharshit/Aether?style=flat-square&color=0284c7&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/Aether) | Core Python repository demonstrating foundational programming principles |
 | 🌟 [**defbyharshit**](https://github.com/defbyharshit/defbyharshit) | `Markdown` `SVG` | [![Profile Stars](https://img.shields.io/github/stars/defbyharshit/defbyharshit?style=flat-square&color=0284c7&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/defbyharshit) | Personal GitHub developer portfolio and live telemetry dashboard |
-| 📊 **EDA Insights Hub** | `Python` `Pandas` `NumPy` | 🚧 *In Progress* | Statistical exploratory data analysis workflows and data storytelling |
 | 🌐 **Modern Portfolio Website** | `HTML5` `CSS3` `JavaScript` | 📐 *Planning* | Responsive web portfolio highlighting academic and engineering achievements |
 
 ---
