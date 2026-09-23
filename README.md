@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshit+%E2%9A%A1;1st+Year+B.Tech+CSE+(Data+Science);Exploring+Data%2C+Python+%26+Web;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Harshit+%E2%9A%A1;B.Tech+CSE+(Data+Science)+%40+ADYPU+x+NxtWave;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Exploring+Python%2C+DSA+%26+Modern+Web+%F0%9F%9A%80" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=defbyharshit&label=SYSTEM+VISITS&color=00ffcc&style=flat-square" alt="profile visits" />
@@ -17,15 +17,37 @@
 $ neofetch --user harshit
 ```
 
-* 🎓 **Undergrad:** First Year **B.Tech in CSE (Data Science)**
-* 🔭 **Focus Areas:** Data Science, Exploratory Data Analysis (EDA) & Modern Web Development
+* 🎓 **Degree:** First Year **B.Tech in Computer Science & Engineering (Data Science)**
+* 🏫 **University:** **Ajeenkya DY Patil University** (in collaboration with **NxtWave Institute of Advanced Technology**)
+* 📅 **Cohort:** Batch of 2026
+* 🔭 **Focus Areas:** Data Analytics, Exploratory Data Analysis (EDA) & Modern Web Development
 * 🌱 **Current Learning:** Python, NumPy, Pandas, JavaScript & Data Structures
 * 💬 **Ask me about:** Python, Data Science basics, or cool tech discussions
 * ⚡ **Core Philosophy:** *"Data is the new oil, but code is the engine."*
 
 ---
 
-### 🚀 Tech Stack & Arsenals
+### 🎯 Current Goals & Milestones
+
+- [x] Set up developer workspace, Git & SSH integration
+- [ ] Master Python Data Science stack (NumPy, Pandas, Matplotlib, Seaborn)
+- [ ] Solve 100+ Data Structures & Algorithms (DSA) problems in Python
+- [ ] Design and query relational databases with SQL
+- [ ] Build and deploy real-world exploratory data analysis and web projects
+
+---
+
+### 🚀 Featured & Upcoming Projects
+
+| Project | Tech Stack | Status | Description |
+| :--- | :--- | :---: | :--- |
+| 📊 **EDA Insights Hub** | `Python` `Pandas` `NumPy` `Jupyter` | 🚧 *In Progress* | End-to-end data analysis and visual storytelling on real-world datasets |
+| 🌐 **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | 📐 *Planning* | High-performance personal website showcasing projects and blogs |
+| 🤖 **Predictive ML Starter** | `Python` `Scikit-Learn` | 💡 *Upcoming* | Fundamental machine learning models for pattern recognition and classification |
+
+---
+
+### 🛠️ Tech Stack & Arsenals
 
 #### 🔹 Programming & Web
 ![Python](https://img.shields.io/badge/Python-00FFCC?style=for-the-badge&logo=python&logoColor=black)
