@@ -3,7 +3,7 @@
 # ⚡ Welcome to Harshit's Dev & Data Matrix!
 
 <a href="https://github.com/defbyharshit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=1st+Year+B.Tech+CSE+(Data+Science)+%40+ADYPU+x+NIAT;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Full-Stack;Creator+of+Student+Performance+Predictor;Exploring+Data%2C+Algorithms+%26+Building+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=1st+Year+B.Tech+CSE+(Data+Science);Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Full-Stack;Creator+of+Student+Performance+Predictor;Exploring+Data%2C+Algorithms+%26+Building+Projects!" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### ✨ About Me
 
-- 🎓 **Undergraduate**: 1st Year B.Tech Computer Science & Engineering (Specialization: **Data Science**) @ **Ajeenkya DY Patil University** in collaboration with **NIAT**.
+- 🎓 **Undergraduate**: 1st Year B.Tech Computer Science & Engineering (Specialization: **Data Science**).
 - 📊 **Domain Focus**: Exploratory Data Analysis (EDA), Statistical Modeling, Machine Learning Pipelines & Scalable Web Apps.
 - 🐍 **Primary Weapons**: **Python** (NumPy, Pandas, Scikit-Learn), **Streamlit**, **SQL**, and Modern **Web Technologies** (HTML5/CSS3/JavaScript).
 - ⚡ **Engineering Philosophy**: *"Data is the raw fuel, but clean architecture and algorithms are the rocket engine."*
@@ -108,10 +108,10 @@
 </details>
 
 <details>
-<summary><b>Q: What university and cohort is Harshit part of?</b></summary>
+<summary><b>Q: What is Harshit's primary engineering focus?</b></summary>
 <br/>
 <blockquote>
-<b>Answer:</b> <b>Ajeenkya DY Patil University (ADYPU) x NIAT</b>, Batch of 2026!
+<b>Answer:</b> <b>Data Science, Machine Learning pipelines</b>, and building full-stack data applications!
 </blockquote>
 </details>
 
