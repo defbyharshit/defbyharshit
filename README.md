@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Harshit+%E2%9A%A1;B.Tech+CSE+(Data+Science)+%40+ADYPU+x+NxtWave;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Exploring+Python%2C+DSA+%26+Modern+Web+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Harshit+%E2%9A%A1;B.Tech+CSE+(Data+Science)+%40+ADYPU+x+NIAT;Turning+Data+into+Actionable+Insights+%F0%9F%93%8A;Exploring+Python%2C+DSA+%26+Modern+Web+%F0%9F%9A%80" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=defbyharshit&label=SYSTEM+VISITS&color=00ffcc&style=flat-square" alt="profile visits" />
