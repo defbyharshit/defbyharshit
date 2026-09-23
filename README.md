@@ -48,12 +48,12 @@ $ neofetch --user harshit
 ### 📊 Telemetry & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defbyharshit&show_icons=true&theme=cyberpunk&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defbyharshit&theme=cyberpunk&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=defbyharshit&show_icons=true&theme=cyberpunk&hide_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=defbyharshit&theme=cyberpunk&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defbyharshit&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=defbyharshit&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
