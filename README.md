@@ -11,7 +11,7 @@
 
 ---
 
-### ⚡ `whoami`
+### ⚡ `Who Am I`
 
 ```bash
 $ neofetch --user harshit
