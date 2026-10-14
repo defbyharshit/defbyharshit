@@ -3,7 +3,7 @@
 # ⚡ Welcome to Harshit's Dev & Data Matrix!
 
 <a href="https://github.com/defbyharshit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=1st+Year+B.Tech+CSE+(Data+Science);Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Full-Stack;Creator+of+Student+Performance+Predictor;Exploring+Data%2C+Algorithms+%26+Building+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=1st+Year+B.Tech+CSE+(Data+Science);Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+NLP;Creator+of+SkillGapSalaryPredictor;Exploring+Data%2C+Algorithms+%26+Building+Projects!" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -34,12 +34,12 @@
 <td width="45%" align="center" valign="middle">
 
 <div align="center">
-  <a href="https://github.com/defbyharshit/StudentPerformancePredictor">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defbyharshit&repo=StudentPerformancePredictor&theme=tokyonight&border_color=00B4D8&title_color=00B4D8&icon_color=00B4D8&text_color=94A3B8" width="100%" alt="Flagship Project" />
+  <a href="https://github.com/defbyharshit/SkillGapSalaryPredictor">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=defbyharshit&repo=SkillGapSalaryPredictor&theme=tokyonight&border_color=00B4D8&title_color=00B4D8&icon_color=00B4D8&text_color=94A3B8" width="100%" alt="Flagship Project" />
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/CURRENT_MISSION-End--to--End_ML_Pipelines-00B4D8?style=flat-square&logo=target" alt="Mission" /><br/>
-  <img src="https://img.shields.io/badge/CORE_FOCUS-Data_Analytics_•_Python_•_Streamlit-1a1f2e?style=flat-square&logo=python&logoColor=00B4D8" alt="Core Focus" /><br/>
+  <img src="https://img.shields.io/badge/LATEST_BUILD-SkillGapSalaryPredictor-00B4D8?style=flat-square&logo=streamlit" alt="Latest Build" /><br/>
+  <img src="https://img.shields.io/badge/CORE_FOCUS-Data_Science_•_NLP_•_ML-1a1f2e?style=flat-square&logo=python&logoColor=00B4D8" alt="Core Focus" /><br/>
   <img src="https://img.shields.io/badge/WORKBENCH-VS_Code_•_Git_•_Linux_CLI-00B4D8?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Workbench" />
 </div>
 
@@ -108,6 +108,14 @@
 </details>
 
 <details>
+<summary><b>Q: How does my Skill Gap Analyzer compute resume match readiness?</b></summary>
+<br/>
+<blockquote>
+<b>Answer:</b> It uses <b>TF-IDF Vectorization & Cosine Similarity</b> combined with direct skill token extraction to compute readiness and isolate missing skills!
+</blockquote>
+</details>
+
+<details>
 <summary><b>Q: What is Harshit's primary engineering focus?</b></summary>
 <br/>
 <blockquote>
@@ -122,6 +130,43 @@
 ---
 
 ### 🚀 Featured Projects & Systems
+
+- 🎯 **[SkillGapSalaryPredictor](https://github.com/defbyharshit/SkillGapSalaryPredictor)** [![Stars](https://img.shields.io/github/stars/defbyharshit/SkillGapSalaryPredictor?style=flat-square&color=00B4D8&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/SkillGapSalaryPredictor)  
+  An end-to-end **NLP & Machine Learning platform** that parses candidate resumes, computes TF-IDF Cosine Similarity against target job descriptions, highlights skill gaps with interactive Plotly radar charts, and predicts global tech compensation benchmarks ($R^2 = 0.9726$).
+
+<details>
+<summary><b>🔬 Click to inspect the Skill Gap & Salary ML Architecture</b></summary>
+<br/>
+
+```text
+       +-------------------------------------------------------------+
+       |             Candidate Resume & Job Config Input             |
+       |  [Resume Text] [Target Role] [Location] [Experience Tier]   |
+       +------------------------------+------------------------------+
+                                      |
+                                      v
+       +------------------------------+------------------------------+
+       |             Natural Language Processing (NLP)               |
+       |  1. Text Preprocessing & Cleaning | 2. TF-IDF Tokenizer      |
+       |  3. Cosine Similarity Score       | 4. Skill Gap Extraction  |
+       +------------------------------+------------------------------+
+                                      |
+                                      v
+       +------------------------------+------------------------------+
+       |           Scikit-Learn ML Salary Regressor Pipeline          |
+       |  OneHotEncoder (Category) | StandardScaler | RandomForest   |
+       +------------------------------+------------------------------+
+                                      |
+                                      v
+       +-------------------------------------------------------------+
+       |               Interactive Streamlit Web Dashboard           |
+       |  Match Readiness % | Salary Gauge | Skill Radar | EDA Charts|
+       +-------------------------------------------------------------+
+```
+
+</details>
+
+<br/>
 
 - 🎓 **[Student Performance Predictor](https://github.com/defbyharshit/StudentPerformancePredictor)** [![Stars](https://img.shields.io/github/stars/defbyharshit/StudentPerformancePredictor?style=flat-square&color=00B4D8&logo=github&label=%E2%AD%90)](https://github.com/defbyharshit/StudentPerformancePredictor)  
   A full-stack, multi-page **Streamlit & Machine Learning web application** analyzing student habits and predicting semester exam scores. Features automated data generation, interactive Plotly EDA charts, dynamic gauge indicators, and personalized performance tips.
